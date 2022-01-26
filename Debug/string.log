@@ -1,0 +1,4 @@
+﻿  string.cpp
+C:\2. AI Michal Huličiar\string\string.cpp(17,19): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\2. AI Michal Huličiar\string\string.cpp(23,20): warning C4018: '<': signed/unsigned mismatch
+  string.vcxproj -> C:\2. AI Michal Huličiar\string\Debug\string.exe
